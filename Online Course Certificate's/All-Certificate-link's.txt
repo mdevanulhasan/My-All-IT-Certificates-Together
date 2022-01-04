@@ -1,0 +1,44 @@
+1) Course Name: The Fundamentals of Digital Marketing
+   Institute Name: Google Digital Garage
+   Link: https://learndigital.withgoogle.com/link/1qsdpcedm9s
+   Verify ID: 77L C2X ZBZ
+
+2) Course Name: Digital Security Essentials
+   Institute Name: Digital Security Agency
+   Link: https://dsa.gov.bd/
+   MC-Z761084P1303309R106L
+
+3) Course Name: The Web Development Bootcamp
+   Institute Name: Udemy
+   Link: https://www.udemy.com/certificate/UC-e048a620-d3a2-4ac8-bc5b-0224de660551/
+   Credential ID: UC-e048a620-d3a2-4ac8-bc5b-0224de660551
+
+4) Course Name: Bootstrap 5 Essential Training: With Projects
+   Institute Name: Udemy
+   Link: https://www.udemy.com/certificate/UC-b6c08178-2958-4cc8-8c73-733991bc8312/
+   Credential ID: UC-b6c08178-2958-4cc8-8c73-733991bc8312
+
+5) Course Name: The Complete 2021 PHP Full Stack Web Development Bootcamp
+   Institute Name: Udemy
+   Link: https://www.udemy.com/certificate/UC-5a912ec4-66f5-4916-a74b-7d8457875325/
+   Credential ID: UC-5a912ec4-66f5-4916-a74b-7d8457875325
+
+6) Course Name: HTML Course
+   Institute Name: SoloLearn
+   Link: https://www.sololearn.com/Certificate/1014-22041749/jpg/
+   Credential ID: 1014-22041749
+
+7) Course Name: CSS Course
+   Institute Name: SoloLearn
+   Link: https://www.sololearn.com/Certificate/1023-22041749/jpg/
+   Credential ID: 1023-22041749
+
+8) Course Name: Coding For Marketers Course
+   Institute Name: SoloLearn
+   Link: https://www.sololearn.com/Certificate/1165-22041749/jpg/
+   Credential ID: 1165-22041749
+
+9) Course Name: Responsive Web Design Course
+   Institute Name: SoloLearn
+   Link: https://www.sololearn.com/Certificate/1162-22041749/jpg/
+   Credential ID: 1162-22041749
