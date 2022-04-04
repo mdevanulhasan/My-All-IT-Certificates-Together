@@ -42,3 +42,8 @@
    Institute Name: SoloLearn
    Link: https://www.sololearn.com/Certificate/1162-22041749/jpg/
    Credential ID: 1162-22041749
+
+10) Course Name:  English Typing Test Course
+   Institute Name: Ratatype
+   Link: https://www.ratatype.com/u4531944/certificate/
+   Credential ID: u4531944
