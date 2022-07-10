@@ -44,6 +44,46 @@
    Credential ID: 1162-22041749
 
 10) Course Name:  English Typing Test Course
-   Institute Name: Ratatype
-   Link: https://www.ratatype.com/u4531944/certificate/
-   Credential ID: u4531944
+    Institute Name: Ratatype
+    Link: https://www.ratatype.com/u4531944/certificate/
+    Credential ID: u4531944
+
+11) Course Name:  Link Building Test
+    Institute Name: SEMRUSH Academy
+    Link: https://static.semrush.com/academy-prod/certificate/11827360/Vukx0PJeunzWq5j.png
+    Credential ID: Vukx0PJeunzWq5j
+
+12) Course Name: SEO Toolkit Exam
+    Institute Name: SEMRUSH Academy
+    Link: https://static.semrush.com/academy-prod/certificate/11827360/MHcdbKP5ypDm1Qd.png
+    Credential ID: MHcdbKP5ypDm1Qd
+
+13) Course Name: Rank Tracking Test
+    Institute Name: SEMRUSH Academy
+    Link: https://static.semrush.com/academy-prod/certificate/11827360/iXc4kReUTLMhujM.png
+    Credential ID: iXc4kReUTLMhujM
+
+14) Course Name: Competitive Analysis and Keyword Research Test
+    Institute Name: SEMRUSH Academy
+    Link: https://static.semrush.com/academy-prod/certificate/11827360/LJmQ1HdJeBz8DxK.png
+    Credential ID: LJmQ1HdJeBz8DxK
+
+15) Course Name: Digital-Agencies-Certifications
+    Institute Name: SEMRUSH Academy
+    Link: https://static.semrush.com/academy-prod/certificate/11827360/tFZHjJUMKLHR8zm.png
+    Credential ID: tFZHjJUMKLHR8zm
+
+16) Course Name: SOCIAL MEDIA MARKETING
+    Institute Name: HubSpot Academy
+    Link: https://app.hubspot.com/academy/achievements/rpxbkkqg/en/1/md-evanul-hasan/social-media-marketing
+    Credential ID: rpxbkkqg
+
+17) Course Name: EMAIL MARKETING
+    Institute Name: HubSpot Academy
+    Link: https://app.hubspot.com/academy/achievements/89xr7bf3/en/1/md-evanul-hasan/email-marketing
+    Credential ID: 89xr7bf3
+
+18) Course Name: Digital Advertising
+    Institute Name: HubSpot Academy
+    Link: https://app.hubspot.com/academy/achievements/pblkn6sy/en/1/md-evanul-hasan/digital-advertising
+    Credential ID: pblkn6sy
